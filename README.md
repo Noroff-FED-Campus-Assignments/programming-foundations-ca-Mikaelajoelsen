@@ -18,6 +18,14 @@ npm run dev
 // Use this file to write your report.
 
 This object has the following properties:
+Brand = The brand of the car is Toyota. 
+Speed = 30 kilometers. 
+Color = Color of the car is black. 
+Kilometers = 50000 kilomteres is how far the car has gone. 
+Wheels = How many wheels it is on the car.
+On = It is false that the car is on
+
+The words that are in quotes are strings, such as Toyota and the boloen is true or false, like in this case that it is false that the car is on. 
 
 ## Minimum acceptance Criteria
 
